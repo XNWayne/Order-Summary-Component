@@ -82,7 +82,6 @@ p{
     font-size: 18px;
     font-weight: 800;
     color: hsl(223, 47%, 23%);
-    padding-left: 21px; 
 }
 
 .plan .plan-text{
@@ -157,9 +156,6 @@ p{
     }
     .plan .plan-text{
         padding-right: 73px;
-    }
-    .plan .an{
-        padding-left: 15px;
     }
 }
 
